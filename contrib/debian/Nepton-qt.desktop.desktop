@@ -1,0 +1,11 @@
+[Desktop Entry]
+Encoding=UTF-8
+Name=Nepton
+Comment=Nepton P2P Cryptocurrency
+Exec=Nepton-qt %u
+Terminal=false
+Type=Application
+Icon=Nepton128
+MimeType=x-scheme-handler/Nepton;
+Categories=Office;Finance;
+Name[en_US]=Nepton-qt.desktop

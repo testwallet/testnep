@@ -1,0 +1,30 @@
+<!DOCTYPE RCC><RCC version="1.0">
+    <qresource prefix="/translations">
+        <file alias="bg">locale/Nepton_bg.qm</file>
+        <file alias="ca">locale/Nepton_ca.qm</file>
+        <file alias="cs">locale/Nepton_cs.qm</file>
+        <file alias="da">locale/Nepton_da.qm</file>
+        <file alias="de">locale/Nepton_de.qm</file>
+        <file alias="en">locale/Nepton_en.qm</file>
+        <file alias="en_US">locale/Nepton_en_US.qm</file>
+        <file alias="es">locale/Nepton_es.qm</file>
+        <file alias="fi">locale/Nepton_fi.qm</file>
+        <file alias="fr_FR">locale/Nepton_fr_FR.qm</file>
+        <file alias="hr">locale/Nepton_hr.qm</file>
+        <file alias="it">locale/Nepton_it.qm</file>
+        <file alias="ja">locale/Nepton_ja.qm</file>
+        <file alias="ko_KR">locale/Nepton_ko_KR.qm</file>
+        <file alias="nl">locale/Nepton_nl.qm</file>
+        <file alias="pl">locale/Nepton_pl.qm</file>
+        <file alias="pt">locale/Nepton_pt.qm</file>
+        <file alias="pt_BR">locale/Nepton_pt_BR.qm</file>
+        <file alias="ro_RO">locale/Nepton_ro_RO.qm</file>
+        <file alias="ru">locale/Nepton_ru.qm</file>
+        <file alias="sk">locale/Nepton_sk.qm</file>
+        <file alias="sv">locale/Nepton_sv.qm</file>
+        <file alias="tr">locale/Nepton_tr.qm</file>
+        <file alias="uk">locale/Nepton_uk.qm</file>
+        <file alias="zh_CN">locale/Nepton_zh_CN.qm</file>
+        <file alias="zh_TW">locale/Nepton_zh_TW.qm</file>
+    </qresource>
+</RCC>
